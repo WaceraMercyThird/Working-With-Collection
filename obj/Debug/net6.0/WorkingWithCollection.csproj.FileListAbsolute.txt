@@ -1,0 +1,15 @@
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/bin/Debug/net6.0/WorkingWithCollection
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/bin/Debug/net6.0/WorkingWithCollection.deps.json
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/bin/Debug/net6.0/WorkingWithCollection.runtimeconfig.json
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/bin/Debug/net6.0/WorkingWithCollection.dll
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/bin/Debug/net6.0/WorkingWithCollection.pdb
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.csproj.AssemblyReference.cache
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.AssemblyInfoInputs.cache
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.AssemblyInfo.cs
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.csproj.CoreCompileInputs.cache
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.dll
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/refint/WorkingWithCollection.dll
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.pdb
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/WorkingWithCollection.genruntimeconfig.cache
+/Users/jpmac/RiderProjects/WorkingWithCollection/WorkingWithCollection/obj/Debug/net6.0/ref/WorkingWithCollection.dll
